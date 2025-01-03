@@ -1,0 +1,7 @@
+[32mINFO    [0m WDM:logger.py:26 
+
+[32mINFO    [0m WDM:logger.py:26 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:26 Could not get version for firefox with the any command: Powershell (Get-Item (Get-ItemProperty 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\firefox.exe').'(Default)').VersionInfo.ProductVersion
+[32mINFO    [0m WDM:logger.py:26 Current firefox version is UNKNOWN
+[32mINFO    [0m WDM:logger.py:26 Get LATEST geckodriver version for UNKNOWN firefox
+[32mINFO    [0m WDM:logger.py:26 Driver [C:\Users\huyuh\.wdm\drivers\geckodriver\win64\v0.35.0\geckodriver.exe] found in cache

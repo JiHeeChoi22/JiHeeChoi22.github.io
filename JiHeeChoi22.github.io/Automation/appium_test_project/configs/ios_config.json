@@ -1,0 +1,8 @@
+{
+    "platformName": "iOS",
+    "automationName": "XCUITest",
+    "deviceName": "iPhone 12",
+    "app": "",
+    "noReset": true,
+    "newCommandTimeout": 3600
+} 

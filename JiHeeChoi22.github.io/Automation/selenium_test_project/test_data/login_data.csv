@@ -1,0 +1,5 @@
+username,password,expected_result,error_message
+test123@opencart.com,test123,success,
+invalid@email.com,wrong123,failure,Warning: No match for E-Mail Address and/or Password.
+,password123,failure,Warning: Please enter your email address
+demo@opencart.com,,failure,Warning: Please enter your password 

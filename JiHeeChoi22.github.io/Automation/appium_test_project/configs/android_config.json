@@ -1,0 +1,18 @@
+{
+    "platformName": "Android",
+    "automationName": "UiAutomator2",
+    "appPackage": "com.android.calculator2",
+    "appActivity": "com.android.calculator2.Calculator",
+    "deviceName": "Android Emulator",
+    "noReset": true,
+    "newCommandTimeout": 60,
+    "settings": {
+        "waitForIdleTimeout": 100,
+        "waitForSelectorTimeout": 5000
+    },
+    "capabilities": {
+        "platformVersion": "11.0",
+        "autoGrantPermissions": true,
+        "ensureWebviewsHavePages": true
+    }
+} 

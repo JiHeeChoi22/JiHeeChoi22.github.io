@@ -1,0 +1,5 @@
+
+
+====== WebDriver manager ======
+Current google-chrome version is 131.0.6778
+Get LATEST chromedriver version for 131.0.6778 google-chrome

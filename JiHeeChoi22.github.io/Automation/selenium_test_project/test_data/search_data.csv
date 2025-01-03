@@ -1,0 +1,6 @@
+keyword,category,expected_result,expected_count
+iphone,Phones & PDAs,success,2
+macbook,Laptops & Notebooks,success,3
+invalid_product,,failure,0
+,Desktops,failure,0
+monitor,All Categories,success,1 

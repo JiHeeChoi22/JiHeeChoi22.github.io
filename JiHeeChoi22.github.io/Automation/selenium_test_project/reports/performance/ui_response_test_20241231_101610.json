@@ -1,0 +1,14 @@
+{
+  "element_response_times": [
+    {
+      "locator": "('id', 'input-email')",
+      "action": "input",
+      "response_time": 0.26973819732666016
+    },
+    {
+      "locator": "('css selector', \"button[type='submit']\")",
+      "action": "click",
+      "response_time": 0.08413028717041016
+    }
+  ]
+}

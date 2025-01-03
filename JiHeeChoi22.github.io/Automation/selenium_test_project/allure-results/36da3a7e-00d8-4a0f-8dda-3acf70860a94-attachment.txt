@@ -1,0 +1,10 @@
+
+
+====== WebDriver manager ======
+Could not get version for firefox with the any command: Powershell (Get-Item (Get-ItemProperty 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\firefox.exe').'(Default)').VersionInfo.ProductVersion
+Current firefox version is UNKNOWN
+Get LATEST geckodriver version for UNKNOWN firefox
+There is no [win64] geckodriver for browser  in cache
+Getting latest mozilla release info for v0.35.0
+Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-win64.zip
+Driver has been saved in cache [C:\Users\huyuh\.wdm\drivers\geckodriver\win64\v0.35.0]

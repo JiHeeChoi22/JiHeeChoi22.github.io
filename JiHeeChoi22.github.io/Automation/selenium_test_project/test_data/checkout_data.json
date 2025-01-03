@@ -1,0 +1,19 @@
+{
+  "customer": {
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "john.doe@example.com",
+    "telephone": "1234567890",
+    "address": "123 Test Street",
+    "city": "Test City",
+    "postcode": "12345",
+    "country": "United States",
+    "region": "California"
+  },
+  "products": [
+    {
+      "name": "iPhone",
+      "quantity": 1
+    }
+  ]
+} 
